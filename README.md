@@ -11,7 +11,7 @@
 
 ## 📸 Demo
 
-🔗 [Live Demo Coming Soon](#)
+🔗 [Live Demo](https://profile-deshboard.netlify.app/)
 
 ---
 
