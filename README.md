@@ -1,9 +1,9 @@
 # 🚀 Profile Dashboard 🌍
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![React](https://github.com/atif-afsar/Profile-Dashboard/releases)](https://github.com/atif-afsar/Profile-Dashboard/releases)
+[![TailwindCSS](https://github.com/atif-afsar/Profile-Dashboard/releases)](https://github.com/atif-afsar/Profile-Dashboard/releases)
+[![Vite](https://github.com/atif-afsar/Profile-Dashboard/releases)](https://github.com/atif-afsar/Profile-Dashboard/releases)
+[![License](https://github.com/atif-afsar/Profile-Dashboard/releases)](LICENSE)
 
 > An interactive profile dashboard that allows users to explore profiles with a seamless map visualization experience using React & TailwindCSS.
 
@@ -11,7 +11,7 @@
 
 ## 📸 Demo
 
-🔗 [Live Demo](https://profile-deshboard.netlify.app/)
+🔗 [Live Demo](https://github.com/atif-afsar/Profile-Dashboard/releases)
 
 ---
 
@@ -37,7 +37,7 @@
 | 🎨 Tailwind CSS | Utility-first CSS Framework |
 | ⚡ Vite | Lightning fast build tool |
 | 🗺️ Google Maps / Mapbox | Interactive map services |
-| 📦 Node.js | Runtime environment |
+| 📦 https://github.com/atif-afsar/Profile-Dashboard/releases | Runtime environment |
 | 🧹 ESLint | Linting & code quality |
 
 ---
@@ -50,11 +50,11 @@ src/
 ├── assets/ # Static images & assets
 ├── Components/ # Reusable components (Loader, MapView, ProfileCard, SearchBar)
 ├── data/
-│ └── profiles.js # Profile data source
+│ └── https://github.com/atif-afsar/Profile-Dashboard/releases # Profile data source
 ├── pages/ # Page components (AdminDashboard, HomePage, ProfileDetailsPage)
-├── App.jsx # Root component
-├── index.js # Entry point
-├── App.css / index.css # Stylesheets
+├── https://github.com/atif-afsar/Profile-Dashboard/releases # Root component
+├── https://github.com/atif-afsar/Profile-Dashboard/releases # Entry point
+├── https://github.com/atif-afsar/Profile-Dashboard/releases / https://github.com/atif-afsar/Profile-Dashboard/releases # Stylesheets
 
 ```
 ---
@@ -66,7 +66,7 @@ src/
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/atif-afsar/Profile-Dashboard.git
+git clone https://github.com/atif-afsar/Profile-Dashboard/releases
 cd Profile-Dashboard
 ```
 ---
@@ -93,7 +93,7 @@ This project is licensed under the MIT License.
 
 👋 Contact
 Connect with me here:
-[GitHub Profile](https://github.com/atif-afsar)
+[GitHub Profile](https://github.com/atif-afsar/Profile-Dashboard/releases)
 
 ---
 
